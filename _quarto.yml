@@ -13,6 +13,7 @@ website:
         href: https://www.linkedin.com/in/bhagesh-hunakunti
 format:
   html:
+    title-block-banner-color: rgb(255, 255, 255)
     theme: 
       - zephyr
       - custom.scss
