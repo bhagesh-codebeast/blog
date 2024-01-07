@@ -3,17 +3,17 @@ project:
 execute:
   freeze: auto
 website:
-  title: "blog"
+  title: "CodeBeast"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/bhagesh-codebeast
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bhagesh-hunakunti
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
 
 
