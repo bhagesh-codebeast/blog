@@ -1,1 +1,1 @@
-Sitemap: https://bhagesh-codebeast.github.io/blog/sitemap.xml
+Sitemap: https://github.com/bhagesh-codebeast/blog/sitemap.xml
