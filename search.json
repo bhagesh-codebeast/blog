@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/template/index.html",
+    "href": "posts/template/index.html",
+    "title": "Template",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Content here.\n\nQuote here.\n\nIn-line code here.\necho 'code block here'\n\n\n\n\n\n\nTip with Title here\n\n\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.\n\n\n\nTable here:\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\nImage with caption here:\n\n\n\nFigure 1: image caption here\n\n\nCross reference tags here: Figure 1\nVideo embed here:\n\nCode annotation here (with hover option):\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bioinformatics Blog",
+    "objectID": "posts/template/index.html#subtitle-here",
+    "href": "posts/template/index.html#subtitle-here",
+    "title": "Template",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 7, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Content here.\n\nQuote here.\n\nIn-line code here.\necho 'code block here'\n\n\n\n\n\n\nTip with Title here\n\n\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.\n\n\n\nTable here:\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\nImage with caption here:\n\n\n\nFigure 1: image caption here\n\n\nCross reference tags here: Figure 1\nVideo embed here:\n\nCode annotation here (with hover option):\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area."
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bioinformatics Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Template\n\n\n\n\n\n\n\nbioinformatics\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nJan 11, 2024\n\n\nBhagesh H.\n\n\n\n\n\n\nNo matching items"
   }
 ]
