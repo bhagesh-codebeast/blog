@@ -1,18 +1,29 @@
 project:
   type: website
+  preview:
+    port: 4200
+    browser: false
 execute:
   freeze: auto
 website:
   title: "CodeBeast"
   navbar:
-    right:
+    logo: "images/logo.jpeg"
+    background: black
+    left:
       - about.qmd
-      - icon: github
-        href: https://github.com/bhagesh-codebeast
-      - icon: linkedin
-        href: https://www.linkedin.com/in/bhagesh-hunakunti
+      - index.qmd
+      # - icon: github
+      #   href: https://github.com/bhagesh-codebeast
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/in/bhagesh-hunakunti
+  back-to-top-navigation: false
+  reader-mode: true
+  
+  page-footer: "Copyright 2024, CodeBeast"
 format:
   html:
+    # page-layout: full
     title-block-banner-color: rgb(255, 255, 255)
     theme: 
       - zephyr
